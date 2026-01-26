@@ -1,0 +1,8 @@
+{
+  "name": "LogiFlow - Entrega Inteligente",
+  "description": "Aplicativo para entregadores independentes que utiliza IA para escanear etiquetas de entrega com precisão, extraindo dados do destinatário instantaneamente.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
